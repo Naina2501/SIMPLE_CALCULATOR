@@ -6,14 +6,22 @@ html,body{
     justify-content: center;
     align-items: center;
 }
+h2{
+    align-items: center;
+    background-color: rgb(214, 214, 197);
+    padding: 10px;
+    margin-top: -7px;
+    margin-bottom: -5px;
+    font-size: 32px;
+}
 .calculator{
     background-color: rgb(230, 248, 230);
-    box-shadow: 10px 4px 5px greenyellow;
+    box-shadow: 10px 4px 5px rgb(209, 221, 124);
     border: 2px solid rgb(104, 109, 104);
     border-radius: 20px;
     overflow: hidden;
     width: 410px;
-    height: 520px;
+    height: 600px;
 }
 .display{
 padding: 5px;
